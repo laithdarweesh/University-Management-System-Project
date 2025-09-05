@@ -10,7 +10,7 @@ namespace AMS_BusinessLayer
     public class clsDoctor: clsPerson
     {
         private enum enMode { AddNew = 0, Update = 1};
-        private enMode _Mode = enMode.AddNew;
+        private enMode _Mode = enMode.AddNew; // Test
         private decimal _Salary;
         public int DoctorID { get; set; }
         public int CollegeID { get; set; }
