@@ -1,1 +1,1 @@
-# University Management System Project
+Web-based University Management System integrating Admin, Faculty, and Student modules via RESTful APIs. Features include user management, course registration, scheduling, grading, and attendance tracking. Built with C#, SQL Server, ADO.NET, and 3-Tier architecture. Project ongoing with plans to expand to full-stack web technologies.
