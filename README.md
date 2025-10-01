@@ -1,1 +1,16 @@
-Web-based University Management System integrating Admin, Faculty, and Student modules via RESTful APIs. Features include user management, course registration, scheduling, grading, and attendance tracking. Built with C#, SQL Server, ADO.NET, and 3-Tier architecture. Project ongoing with plans to expand to full-stack web technologies.
+University Management System (Web App) with Admin, Faculty, and Student modules communicating via RESTful APIs.
+
+Backend: C#, SQL Server, ADO.NET, Stored Procedures, 3-Tier Architecture
+
+Features: 
+
+- student/faculty registration.
+- course scheduling.
+- grading.
+- attendance tracking.
+- payments and reports.
+- faculty management
+- admin controls.
+
+Modular design for scalability and integration with future web UI.
+Project ongoing with plans to expand to full-stack web technologies.
