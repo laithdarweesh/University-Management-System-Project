@@ -26,8 +26,11 @@ This project provides distinct interfaces tailored for administrators, faculty m
 🛠️ Technical Details:
 
 Technologies: C#, ADO.NET, Object-Oriented Programming (OOP), T-SQL, RESTful API
+
 Database: Microsoft SQL Server (Stored Procedures, Views)
+
 Architecture: 3-Tier (Presentation Layer, Business Layer, Data Access Layer)
+
 Design Goal: Modular and scalable system with clear separation of concerns
 
 🚀 Future Plans
